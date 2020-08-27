@@ -1,0 +1,12 @@
+.blue-box {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  text-align: center;
+  line-height: 100px;
+  display: block;
+}
+
+button {
+  margin-top: 20px;
+}
